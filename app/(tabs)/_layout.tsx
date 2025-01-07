@@ -44,7 +44,7 @@ export default function TabsLayout() {
           ),
         }}
       />
-      <Tabs.Screen name="+not-found" options={{}} />
+      {/* <Tabs.Screen name="+not-found" options={{}} /> */}
     </Tabs>
   );
 }
